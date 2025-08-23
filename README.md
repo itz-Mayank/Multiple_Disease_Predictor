@@ -79,6 +79,7 @@ The models were trained and evaluated on their respective datasets, achieving th
 ## 🗂️ Project Structure
 
 The repository is organized as follows:
+```bash
 📦 multiple-disease-predictor/
  ┣ 📂 datasets/
  ┃ ┣ 📜 kidney_disease.csv
@@ -93,6 +94,7 @@ The repository is organized as follows:
  ┣ 📜 model.ipynb
  ┣ 📜 requirements.txt
  ┗ 📜 README.md
+```
 ---
 
 ## 🚀 Getting Started
