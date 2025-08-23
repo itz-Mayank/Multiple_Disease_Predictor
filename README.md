@@ -13,7 +13,6 @@ A Machine Learning-based system to predict the likelihood of multiple diseases (
 ## 📌 Table of Contents
 
 - [Project Overview](#-project-overview)
-- [Live Demo / Screenshot](#-live-demo--screenshot)
 - [Features](#️-features)
 - [Model Performance](#%EF%B8%8F-model-performance)
 - [Tech Stack](#-tech-stack)
@@ -39,14 +38,6 @@ This project demonstrates how machine learning models can be applied to healthca
 3.  **Parkinson’s Disease**
 
 The primary goal is to provide a simple yet effective tool for preliminary health assessment.
-
----
-
-## 📸 Live Demo / Screenshot
-
-Here is a glimpse of the web application's user interface.
-
-![Streamlit App Interface](https://via.placeholder.com/800x450.png?text=Add+Your+App+Screenshot+Here)
 
 ---
 
@@ -99,6 +90,7 @@ The repository is organized as follows:
 ┃ ┗ 📜 parkinsons_model.pkl
 ┣ 📜 .gitignore
 ┣ 📜 app.py
+┣ 📜 model.ipynb
 ┣ 📜 requirements.txt
 ┗ 📜 README.md
 ---
