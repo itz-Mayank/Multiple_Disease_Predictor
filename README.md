@@ -80,19 +80,19 @@ The models were trained and evaluated on their respective datasets, achieving th
 
 The repository is organized as follows:
 📦 multiple-disease-predictor/
-┣ 📂 datasets/
-┃ ┣ 📜 kidney_disease.csv
-┃ ┣ 📜 liver_disease.csv
-┃ ┗ 📜 parkinsons.csv
-┣ 📂 models/
-┃ ┣ 📜 kidney_model.pkl
-┃ ┣ 📜 liver_model.pkl
-┃ ┗ 📜 parkinsons_model.pkl
-┣ 📜 .gitignore
-┣ 📜 app.py
-┣ 📜 model.ipynb
-┣ 📜 requirements.txt
-┗ 📜 README.md
+ ┣ 📂 datasets/
+ ┃ ┣ 📜 kidney_disease.csv
+ ┃ ┣ 📜 liver_disease.csv
+ ┃ ┗ 📜 parkinsons.csv
+ ┣ 📂 models/
+ ┃ ┣ 📜 kidney_model.pkl
+ ┃ ┣ 📜 liver_model.pkl
+ ┃ ┗ 📜 parkinsons_model.pkl
+ ┣ 📜 .gitignore
+ ┣ 📜 app.py
+ ┣ 📜 model.ipynb
+ ┣ 📜 requirements.txt
+ ┗ 📜 README.md
 ---
 
 ## 🚀 Getting Started
