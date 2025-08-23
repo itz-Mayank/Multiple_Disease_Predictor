@@ -3,7 +3,6 @@
 [![Python](https://img.shields.io/badge/Python-3.9%2B-blue?style=for-the-badge&logo=python)](https://www.python.org/)
 [![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit)](https://streamlit.io)
 [![Scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)](https://scikit-learn.org/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](https://opensource.org/licenses/MIT)
 [![Accuracy](https://img.shields.io/badge/Max_Accuracy-98.75%25-brightgreen?style=for-the-badge)](./#%EF%B8%8F-model-performance)
 
 A Machine Learning-based system to predict the likelihood of multiple diseases (Kidney, Liver, and Parkinson's) through a user-friendly web interface built with Streamlit.
@@ -23,7 +22,6 @@ A Machine Learning-based system to predict the likelihood of multiple diseases (
 - [How It Works](#-how-it-works)
 - [Future Improvements](#-future-improvements)
 - [Contributing](#-contributing)
-- [License](#-license)
 - [Contact](#-contact)
 
 ---
@@ -110,7 +108,7 @@ Follow these steps to set up and run the project locally.
 
 1.  **Clone the Repository**
     ```bash
-    git clone [https://github.com/your-username/multiple-disease-predictor.git](https://github.com/your-username/multiple-disease-predictor.git)
+    git clone [https://github.com/itz-Mayank/Multiple_Disease_Predictor.git](https://github.com/itz-Mayank/Multiple_Disease_Predictor.git)
     cd multiple-disease-predictor
     ```
     2.  **Create and Activate a Virtual Environment** (Recommended)
@@ -184,15 +182,9 @@ Contributions are welcome! If you have suggestions for improvement, please fork 
 
 ---
 
-## 📜 License
-
-This project is distributed under the MIT License. See `LICENSE` for more information.
-
----
-
 ## 📧 Contact
 
 **Mayank Meghwal**
 
 -   **Email:** `mayankmeg207@gmail.com`
--   **GitHub:** [your-username](https://github.com/itz-Mayank) ```
+-   **GitHub:** [itz-Mayank](https://github.com/itz-Mayank) ```
