@@ -20,8 +20,6 @@ A Machine Learning-based system to predict the likelihood of multiple diseases (
   - [Prerequisites](#prerequisites)
   - [Installation & Setup](#installation--setup)
 - [How It Works](#-how-it-works)
-- [Future Improvements](#-future-improvements)
-- [Contributing](#-contributing)
 - [Contact](#-contact)
 
 ---
@@ -41,14 +39,14 @@ The primary goal is to provide a simple yet effective tool for preliminary healt
 
 ## Features
 
--   ✔️ **Multi-Disease Prediction**: Classifies three major diseases from user input.
--   ✔️ **High-Accuracy Models**:
+-   **Multi-Disease Prediction**: Classifies three major diseases from user input.
+-   **High-Accuracy Models**:
     -   Kidney Disease Prediction using **Logistic Regression**.
     -   Liver Disease Prediction using **XGBoost Classifier**.
     -   Parkinson’s Disease Prediction using **Logistic Regression**.
--   ✔️ **Data Preprocessing**: Includes robust preprocessing with **StandardScaler** for feature scaling.
--   ✔️ **Interactive Dashboard**: A clean and intuitive user interface built with **Streamlit**.
--   ✔️ **Instant Results**: Provides real-time predictions based on the input data.
+-   **Data Preprocessing**: Includes robust preprocessing with **StandardScaler** for feature scaling.
+-   **Interactive Dashboard**: A clean and intuitive user interface built with **Streamlit**.
+-   **Instant Results**: Provides real-time predictions based on the input data.
 
 ---
 
@@ -78,20 +76,20 @@ The models were trained and evaluated on their respective datasets, achieving th
 
 The repository is organized as follows:
 ```bash
-📦 multiple-disease-predictor/
- ┣ 📂 datasets/
- ┃ ┣ 📜 kidney_disease.csv
- ┃ ┣ 📜 liver_disease.csv
- ┃ ┗ 📜 parkinsons.csv
- ┣ 📂 models/
- ┃ ┣ 📜 kidney_model.pkl
- ┃ ┣ 📜 liver_model.pkl
- ┃ ┗ 📜 parkinsons_model.pkl
- ┣ 📜 .gitignore
- ┣ 📜 app.py
- ┣ 📜 model.ipynb
- ┣ 📜 requirements.txt
- ┗ 📜 README.md
+multiple-disease-predictor/
+ ┣ datasets/
+ ┃ ┣ kidney_disease.csv
+ ┃ ┣ liver_disease.csv
+ ┃ ┗ parkinsons.csv
+ ┣ models/
+ ┃ ┣ kidney_model.pkl
+ ┃ ┣ liver_model.pkl
+ ┃ ┗ parkinsons_model.pkl
+ ┣ .gitignore
+ ┣ app.py
+ ┣ model.ipynb
+ ┣ requirements.txt
+ ┗ README.md
 ```
 ---
 
