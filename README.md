@@ -161,28 +161,7 @@ The prediction pipeline involves the following steps:
 
 ---
 
-## Future Improvements
-
--   **Add More Diseases**: Integrate more datasets and models to expand the prediction capabilities.
--   **Enhance Model Accuracy**: Experiment with deep learning models like ANNs or LSTMs for potentially better performance.
--   **Improve UI/UX**: Enhance the Streamlit app with better visualizations, explanations of features, and a more polished design.
--   **Cloud Deployment**: Deploy the application on a cloud platform like Heroku, AWS, or Streamlit Cloud for public access.
-
----
-
-## Contributing
-
-Contributions are welcome! If you have suggestions for improvement, please fork the repository and create a pull request. You can also open an issue with the tag "enhancement".
-
-1.  Fork the Project
-2.  Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
-3.  Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
-4.  Push to the Branch (`git push origin feature/AmazingFeature`)
-5.  Open a Pull Request
-
----
-
-## 📧 Contact
+## Contact
 
 **Mayank Meghwal**
 
