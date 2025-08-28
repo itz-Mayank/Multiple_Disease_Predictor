@@ -1,4 +1,4 @@
-# 🧠 Multiple Disease Predictor using Machine Learning
+# Multiple Disease Predictor using Machine Learning
 
 [![Python](https://img.shields.io/badge/Python-3.9%2B-blue?style=for-the-badge&logo=python)](https://www.python.org/)
 [![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit)](https://streamlit.io)
@@ -9,7 +9,7 @@ A Machine Learning-based system to predict the likelihood of multiple diseases (
 
 ---
 
-## 📌 Table of Contents
+## Table of Contents
 
 - [Project Overview](#-project-overview)
 - [Features](#️-features)
@@ -26,7 +26,7 @@ A Machine Learning-based system to predict the likelihood of multiple diseases (
 
 ---
 
-## 📜 Project Overview
+## Project Overview
 
 The Multiple Disease Prediction System is a promising tool for enhancing healthcare accessibility and efficiency. By integrating advanced machine learning techniques with user-friendly interfaces, the system bridges the gap between technology and healthcare, enabling early detection of diseases.
 
@@ -39,7 +39,7 @@ The primary goal is to provide a simple yet effective tool for preliminary healt
 
 ---
 
-## ⚙️ Features
+## Features
 
 -   ✔️ **Multi-Disease Prediction**: Classifies three major diseases from user input.
 -   ✔️ **High-Accuracy Models**:
@@ -52,7 +52,7 @@ The primary goal is to provide a simple yet effective tool for preliminary healt
 
 ---
 
-## 📊 Model Performance
+## Model Performance
 
 The models were trained and evaluated on their respective datasets, achieving the following accuracies:
 
@@ -64,7 +64,7 @@ The models were trained and evaluated on their respective datasets, achieving th
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 -   **Programming Language:** `Python`
 -   **Web Framework:** `Streamlit`
@@ -74,7 +74,7 @@ The models were trained and evaluated on their respective datasets, achieving th
 
 ---
 
-## 🗂️ Project Structure
+## Project Structure
 
 The repository is organized as follows:
 ```bash
@@ -95,7 +95,7 @@ The repository is organized as follows:
 ```
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
 Follow these steps to set up and run the project locally.
 
@@ -134,11 +134,11 @@ Follow these steps to set up and run the project locally.
 
 5.  **Access the Application**
     Open your web browser and navigate to:
-    👉 **http://localhost:8501**
+    **http://localhost:8501**
 
 ---
 
-## 🧑‍💻 How It Works
+## How It Works
 
 The prediction pipeline involves the following steps:
 
@@ -161,7 +161,7 @@ The prediction pipeline involves the following steps:
 
 ---
 
-## 📌 Future Improvements
+## Future Improvements
 
 -   **Add More Diseases**: Integrate more datasets and models to expand the prediction capabilities.
 -   **Enhance Model Accuracy**: Experiment with deep learning models like ANNs or LSTMs for potentially better performance.
@@ -170,7 +170,7 @@ The prediction pipeline involves the following steps:
 
 ---
 
-## 🤝 Contributing
+## Contributing
 
 Contributions are welcome! If you have suggestions for improvement, please fork the repository and create a pull request. You can also open an issue with the tag "enhancement".
 
